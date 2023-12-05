@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class TestingTest {
 
 	@Test
 	public void facebookTest()    // testng suffix should be Test 
